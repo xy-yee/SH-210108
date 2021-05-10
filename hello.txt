@@ -12,3 +12,5 @@ hello git
 hello master
 hello slave1
 pushtest
+pulltest
+
